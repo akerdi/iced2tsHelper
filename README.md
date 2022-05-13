@@ -33,6 +33,6 @@ module.exports.defer2Promise = (deferFunc, params)->
 
 总结: 以上解决了Iced 重构 Typescript 过程中，无法平滑过渡的隐患(可能导致牵连多个Iced 脚本，无法在Typescript中进行 await 调用的老大难题)
 
-[参考iced2ts](https://shaohung001.github.io/tags/iced2ts/)
+[参考iced2ts](https://akerdi.github.io/tags/iced2ts/)
 
 有其他疑问可以issue提出
